@@ -1,0 +1,16 @@
+pymupdf
+pdfplumber
+pytesseract
+pdf2image
+pillow
+nltk
+transformers>=4.34.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4  # or faiss-gpu if you have CUDA
+torch>=2.0.0
+accelerate
+numpy
+bitsandbytes
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+pygments
+pyreadline3
